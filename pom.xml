@@ -26,7 +26,7 @@
 		<magnolia.version>6.2</magnolia.version>
 		<thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
 		<blossom.version>3.4</blossom.version>
-		<spring.version>5.2.5.RELEASE</spring.version>
+		<spring.version>6.1.13</spring.version>
 		<magnolia-site.version>1.3</magnolia-site.version>
 	</properties>
 
